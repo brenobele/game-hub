@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 
+GameHub_Resources/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
